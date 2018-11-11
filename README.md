@@ -3,6 +3,6 @@
 2. `cd ~/Library/Developer/Xcode/`
 3. Make new folder `Templates` with command `mkdir Templates`
 4. `cd Templates`
-5. `git clone https://github.com/qasir/VIPER-Template-iOS.git VIPER`
+5. `git clone https://github.com/QasirID/VIPER-Template-iOS.git VIPER`
 6. Restart Xcode
 7. Let's start
